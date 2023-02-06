@@ -103,44 +103,19 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/exe1566/github-readme-stats"><img alt="exe1566's Github Stats" src="https://github-readme-stats.vercel.app/api?username=exe1566&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=exe1566&show_icons=true&locale=en&layout=compact&theme=algolia" alt="exe1566" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/exe1566"><img alt="exe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=exe1566&custom_title=exe1566's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="exesponsorship@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/exe1566"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="ctugra8@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/MarulAdam"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/emre-kaplan-35333a204/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/exe1566"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UCxb8LbwM8sNsDmcaKBZiLRw"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	<a href="https://instagram.com/tugra.can_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC5yk1LNvcA2dLBSqiNNNQdQ"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
 
 <hr/>
 
-* Credit: [exe1566](https://github.com/exe1566)
-* Last Edited on: 29/08/2022
+* Credit: [MarulAdam](https://github.com/MarulAdam)
+* Last Edited on: 06/02/2007
